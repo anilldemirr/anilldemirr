@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Relational Databases and APIs**
 
-- 💬 Ask me about **Object Oriented Programming**
-
 - 📫 How to reach me **anill.demir34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
