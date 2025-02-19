@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anıl Demir</h1>
-<h3 align="center">A passionate student studies about backend development</h3>
+<h3 align="center">A passionate student studies about machine learning</h3>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **NumPy, Pandas, Matplotlib**
 
-- 🌱 I’m currently learning **Relational Databases and APIs**
+- 🌱 I’m currently learning **Data Manipulation and Visualization**
 
 - 📫 How to reach me **anill.demir34@gmail.com**
 
